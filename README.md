@@ -1,0 +1,1 @@
+# shopmind-ai
